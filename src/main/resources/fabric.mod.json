@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "cancel-breaks",
+  "version": "${version}",
+  "name": "CancelBreaks",
+  "description": "No more wasting Budding amethyst blocks! This mod cancel break budding amethyst.",
+  "authors": [
+    "_Axa_lotL_"
+  ],
+  "contact": {
+    "website": "https://github.com/AxalotLS"
+  },
+  "license": "MIT",
+  "icon": "assets/CancelBreaks/CancelBreaks.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.axalotl.cancelbreaks.CancelBreaks"
+    ]
+  },
+  "mixins": [
+    "CancelBreaks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
