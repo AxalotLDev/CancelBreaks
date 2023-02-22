@@ -1,1 +1,1 @@
-No more wasting Budding amethyst blocks! This mod cancel break budding amethyst.
+Cancel Breaks Mod is designed to help Minecraft players avoid breaking budding amethyst blocks by accident.
