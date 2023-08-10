@@ -18,12 +18,10 @@
       "com.axalotl.cancelbreaks.CancelBreaks"
     ]
   },
-  "mixins": [
-    "CancelBreaks.mixins.json"
-  ],
+  "mixins": [],
   "depends": {
-    "fabricloader": ">=0.14.0",
+    "fabricloader": ">=0.12.13",
     "fabric": "*",
-    "minecraft": "1.19.3"
+    "minecraft": ">=1.19.4"
   }
 }
