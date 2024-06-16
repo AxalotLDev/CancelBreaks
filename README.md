@@ -1,1 +1,1 @@
-Cancel Breaks Mod is designed to help Minecraft players avoid breaking budding amethyst blocks by accident.
+The Cancel Breaks mod helps Minecraft players avoid accidentally destroying blocks that are not drop when destroyed or that are undesirable to be destroyed. Blocks cannot be destroyed only in survival mode. Blocks: Amethyst Drusus, Suspicious Sand, Suspicious Gravel.
