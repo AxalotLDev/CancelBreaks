@@ -20,8 +20,8 @@
   },
   "mixins": [],
   "depends": {
-    "fabricloader": ">=0.12.13",
+    "fabricloader": "*",
     "fabric": "*",
-    "minecraft": ">=1.19.4"
+    "minecraft": ">=1.21.2"
   }
 }
